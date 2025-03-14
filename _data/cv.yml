@@ -18,7 +18,8 @@
       year: 2022 - now
       description:
         - Control theory
-        - Computer-assisted proofs of non-reachability
+        - Computer-assisted proofs
+        - Reachability analysis
         - title: Under the supervision of
           contents:
             - Camille Pouchol (Maître de Conférences, MAP 5, Université Paris Cité)
@@ -26,20 +27,29 @@
     
     - title: Masters Degree
       institution: Mathématiques de la modélisation, Sorbonne Université
-      year: 2020 - 2022
+      year: 2022
       description:
         - Control Theory
         - Partial Differential Equations
         - Optimisation
-    
+      
+    - title: Masters Degree (first year)
+      institution: Mathématiques, Modélisation et Apprentissage, Université Paris Cité
+      year: 2022
+      description:
+        - Probability
+        - Statistics
+        - Image processing
+        - Modelisation
+        
     - title: Bachelor's Degree in Mathematics and Computer Sciences 
-      institution: Ecole Polytechnique
-      year: 2018 - 2021
+      institution: Sorbonne Université
+      year: 2020
 
 - title: Experience
   type: time_table
   contents:
-    - title: Member of the Board of the <a href="https://map5.mi.parisdescartes.fr">MAP5</a> Laboratory
+    - title: Member of the Board of the MAP5 Laboratory
       year: 2023 - now
       description: Organising research events, Webmaster
     - title: Co-organiser of the PhD Student Seminar at MAP5
@@ -52,33 +62,13 @@
         - title: Under the supervision of
           contents:
             - Camille Pouchol (Maître de Conférences, MAP 5, Université Paris Cité)
-    
-   
-    - title: Company Internship
-      institution: Stereolabs
-      year: 2020
-      description:
-        - Human pose estimation with CNNs.
-
-    - title: Teaching Assistant
-      institution: Université de Technologie du Cambodge
-      year: 2018
-      description:
-        - Teaching full-time gifted undergraduate students as preparation for the Ecole Polytechnique entry exams.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/PythonOT">POT</a>
-      year: 2022-now
-      description: Contributing to the Python Optimal Transport Library.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Optimal Transport
+    - title: Control theory
       items: 
-        - (Generalised) Wasserstein Barycentres
+        - Control theory
         - The Sliced Wasserstein Distance
         - Gaussian Mixture Model Optimal Transport
     - title: Signal Processing
@@ -89,8 +79,5 @@
 - title: Other Interests
   type: list
   contents:
-    - Mandarin Chinese
-    - Music (flute, saxophone)
-    - (Horrendous) chess
-    - Blender modelling and animation
-    - Tennis
+    - Music (piano, oboe, choirs)
+    - Reading (SF, Litterature)
