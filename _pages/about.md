@@ -16,12 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Julie Delon](https://judelo.github.io/) and [Agnès Desolneux](https://desolneux.perso.math.cnrs.fr/).
+PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wixsite.com/)), [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) and [Christophe Zhang](https://christophezhang.netlify.app). 
 
-I study Optimal Transport, in particular Generalised Wasserstein Barycentres, the Sliced Wasserstein Distance and GMM-restricted OT. 
+I study **bullshit maths**. 
 
-After my studies at [Ecole Polytechnique](https://www.polytechnique.edu/) (cycle
-ingénieur), I took the [Masters in Mathematics, Vision and
+After my studies at Prout University 
+% (cycle
+%ingénieur), I took the [Masters in Mathematics, Vision and
 Learning](https://www.master-mva.com/) ("MVA" in French), where I took [Gabriel
 Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course. Enthralled, I took
 a project on [A Wasserstein distance between
