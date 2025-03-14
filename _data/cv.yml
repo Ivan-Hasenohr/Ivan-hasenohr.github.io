@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 18th December 2000
     - name: Languages
-      value: English, French
+      value: English, French, Matlab, Python, LaTeX
     - name: Contact
       value: ivan.hasenohr 'at' math.cnrs 'dot' fr
 
@@ -22,7 +22,7 @@
         - Reachability analysis
         - title: Under the supervision of
           contents:
-            - Camille Pouchol (Maître de Conférences, MAP 5, Université Paris Cité)
+            - Camille Pouchol (Maître de Conférences, MAP5, Université Paris Cité)
             - Yannick Privat (Professeur des universités at IECL, Université de Lorraine)
     
     - title: Masters Degree
@@ -61,23 +61,19 @@
         - Méthodes d’analyse convexe pour la contrôlabilité sous contraintes en dimension finie
         - title: Under the supervision of
           contents:
-            - Camille Pouchol (Maître de Conférences, MAP 5, Université Paris Cité)
+            - Camille Pouchol (Maître de Conférences, MAP5, Université Paris Cité)
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Control theory
-      items: 
-        - Control theory
-        - The Sliced Wasserstein Distance
-        - Gaussian Mixture Model Optimal Transport
-    - title: Signal Processing
-      items:
-        - Graph (Laplacian) Learning
-        - Graph Signal Processing
+    - Control theory
+    - Fenchel duality
+    - Certified computing
+    - Constants tracking in discretisation schemes
 
 - title: Other Interests
   type: list
   contents:
     - Music (piano, oboe, choirs)
     - Reading (SF, Litterature)
+    - Cheese
