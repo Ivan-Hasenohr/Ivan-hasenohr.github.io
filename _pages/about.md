@@ -32,4 +32,4 @@ Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
 Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
 September 2022, and I am now continuing this work and branching back to GMM-OT
 and Sliced Wasserstein during my PhD.
---!>
+-->
