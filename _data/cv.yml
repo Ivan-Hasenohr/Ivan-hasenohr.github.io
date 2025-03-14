@@ -2,13 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Eloi Tanguy
+      value: Ivan Hasenohr
     - name: Date of Birth
-      value: 15th August 1999
+      value: 18th December 2000
     - name: Languages
-      value: English, French, Spanish, <small> Mandarin Chinese </small>
+      value: English, French
     - name: Contact
-      value: eloi.tanguy 'at' math.cnrs 'dot' fr
+      value: ivan.hasenohr 'at' math.cnrs 'dot' fr
 
 - title: Education
   type: time_table
@@ -17,25 +17,22 @@
       institution: Université Paris-Cité, laboratoire MAP5
       year: 2022 - now
       description:
-        - Generalised Wasserstein Barycentres
-        - Sliced Wasserstein Distance
-        - Optimal Transport Maps
-        - Optimal Transport between Gaussian Mixture Models
+        - Control theory
+        - Computer-assisted proofs of non-reachability
         - title: Under the supervision of
           contents:
-            - Julie Delon (Professeur des Universités, MAP 5, Université Paris Cité)
-            - Agnès Desolneux (Directrice de Recherche CNRS at Centre Borelli and tenure Professor at ENS Paris-Saclay)
+            - Camille Pouchol (Maître de Conférences, MAP 5, Université Paris Cité)
+            - Yannick Privat (Professeur des universités at IECL, Université de Lorraine)
     
     - title: Masters Degree
-      institution: Mathematics, Vision and Learning ("Master MVA"), ENS Paris-Saclay
-      year: 2021
+      institution: Mathématiques de la modélisation, Sorbonne Université
+      year: 2020 - 2022
       description:
-        - Deep Learning (Vision, NLP, Graphs)
-        - Optimal Transport
+        - Control Theory
+        - Partial Differential Equations
         - Optimisation
-        - Statistics
     
-    - title: Ecole d'Ingénieur
+    - title: Bachelor's Degree in Mathematics and Computer Sciences 
       institution: Ecole Polytechnique
       year: 2018 - 2021
       description:
@@ -61,7 +58,7 @@
     
     - title: Research Internship
       institution: DIG-INFRES, Télécom Paris
-      year: 2021
+      year: 2022
       description:
         - Extracting structured information from raw Wikipedia text using Deep Learning.
         - title: Under the supervision of
