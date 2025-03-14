@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Eloi
+first_name: Ivan
 middle_name: 
-last_name: TANGUY
-email: eloi.tanguy@math.cnrs.fr
+last_name: HASENOHR  
+email: ivan.hasenohr@math.cnrs.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Eloi Tanguy's website
+  Ivan Hasenohr's website
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: eloitanguy # your GitHub user name
+github_username: Ivan-Hasenohr # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: eloi-tanguy-37280a194 # your LinkedIn user name
-scholar_userid: S_4v6hoAAAAJ # your Google Scholar ID
+linkedin_username: # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -231,8 +231,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Tanguy]
-  first_name: [Eloi, E.]
+  last_name: [HASENOHR]
+  first_name: [Ivan, I.]
 
   style: apa
   locale: en
