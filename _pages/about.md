@@ -21,7 +21,7 @@ PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wi
 I study **bullshit maths**. 
 
 After my studies at Prout University 
-% (cycle
+<! -- (cycle
 %ingénieur), I took the [Masters in Mathematics, Vision and
 Learning](https://www.master-mva.com/) ("MVA" in French), where I took [Gabriel
 Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course. Enthralled, I took
@@ -32,3 +32,4 @@ Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
 Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
 September 2022, and I am now continuing this work and branching back to GMM-OT
 and Sliced Wasserstein during my PhD.
+--!>
