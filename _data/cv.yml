@@ -35,13 +35,11 @@
     - title: Bachelor's Degree in Mathematics and Computer Sciences 
       institution: Ecole Polytechnique
       year: 2018 - 2021
-      description:
-        - Specialisation in Pure and Applied Mathematics.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Member of the Board of the <a href="https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/">Young Statisticians Group of the French Statistical Society</a>
+    - title: Member of the Board of the <a href="https://map5.mi.parisdescartes.fr">MAP5</a> Laboratory
       year: 2023 - now
       description: Organising research events, Webmaster
     - title: Co-organiser of the PhD Student Seminar at MAP5
@@ -50,22 +48,12 @@
       institution: MAP5, Université Paris-Cité
       year: 2022
       description:
-        - Generalised Wasserstein Barycentres and the Sliced Wasserstein Distance.
+        - Méthodes d’analyse convexe pour la contrôlabilité sous contraintes en dimension finie
         - title: Under the supervision of
           contents:
-            - Julie Delon (Professeur des Universités, sMAP 5, Université Paris Cité)
-            - Rémi Flamary (Tenure Professor at CMAP, Ecole Polytechnique)
+            - Camille Pouchol (Maître de Conférences, MAP 5, Université Paris Cité)
     
-    - title: Research Internship
-      institution: DIG-INFRES, Télécom Paris
-      year: 2022
-      description:
-        - Extracting structured information from raw Wikipedia text using Deep Learning.
-        - title: Under the supervision of
-          contents:
-            - Tiphaine Viard (Associate Professor at DIG, Télécom Paris)
-            - Thomas Bonald (Tenure Professor at DIG, Télécom Paris)
-
+   
     - title: Company Internship
       institution: Stereolabs
       year: 2020
