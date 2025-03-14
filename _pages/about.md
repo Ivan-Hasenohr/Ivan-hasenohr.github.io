@@ -21,7 +21,7 @@ PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wi
 I study **bullshit maths**. 
 
 After my studies at Prout University 
-<! -- (cycle
+<!-- (cycle
 %ingénieur), I took the [Masters in Mathematics, Vision and
 Learning](https://www.master-mva.com/) ("MVA" in French), where I took [Gabriel
 Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course. Enthralled, I took
