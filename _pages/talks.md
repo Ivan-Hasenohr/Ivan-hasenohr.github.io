@@ -89,13 +89,11 @@ nav_order: 6
   *Properties of Discrete Sliced Wasserstein Losses*
   [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
 
-- 30/06/2023 MAP5, Séminaire des Doctorants, 
+- 14/03/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 
-  *Properties of Discrete Sliced
-  Wasserstein Losses*
-  [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
+  *Correspondance between air and water leaks for DELABIE*
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/???)
 
-- 28/02/2022 MAP5, Séminaire des Doctorants, 
+- 18/11/2022 MAP5, Séminaire des Doctorants, 
 
-  *Generalised Wasserstein
-  Barycenters and the Sliced Wasserstein Distance*
+  *Convex analysis methods for finite-dimensional controllability under constraints*
