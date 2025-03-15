@@ -18,6 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wixsite.com/perso), [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) and [Christophe Zhang](https://christophezhang.netlify.app). 
 
+I study control theory, more specifically reachability analysis using computer-assisted proofs of reachability based on convex analysis and discretisation schemes. 
+
+
 <!--I study **bullshit maths**. 
 
 After my studies at Prout University 
