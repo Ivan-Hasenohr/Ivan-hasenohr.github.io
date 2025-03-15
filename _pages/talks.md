@@ -13,27 +13,27 @@ nav_order: 6
   
 - 28/10/2024 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, ENS Lyon
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA). 
 
 - 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM). 
 
 - 17/05/2024 Séminaire des Doctorants, MAP5
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/240517_GTE). 
 
 - 17/11/2023 Groupe de Travail Modélisation, Analyse et Simulation, MAP5
 
   *Computer-assisted methods for rigorous description of reachable sets in constrained linear control problems*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/231117_GTMAS). 
 
 - 25/09/2023 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, Centrale-Supélec, Gif-Sur-Yvette
   
   *Rigorous approximations of reachable sets*
-  [poster](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [poster](https://ivan-hasenohr.github.io/assets/pdf/230925_CJC_MA_poster). 
 
 - 19/06/2023 ANR TRECOS, Rennes
 
