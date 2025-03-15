@@ -42,7 +42,8 @@ nav_order: 6
 
 - 21/04/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 
-  *Correspondance between air and water leaks for DELABIE*
+  Avec Nicolas BEUVIN, Chabane MEZIANE et Etienne PEILLON*Correspondance between air and water leaks for DELABIE*
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/???),
   [rapport](https://ivan-hasenohr.github.io/assets/pdf/???).
 
 - 18/11/2022 Séminaire des Doctorants, MAP5
