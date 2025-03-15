@@ -31,6 +31,7 @@ nav_order: 6
   [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
 
 - 25/09/2023 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, Centrale-Supélec, Gif-Sur-Yvette
+  
   *Rigorous approximations of reachable sets*
   [poster](https://ivan-hasenohr.github.io/assets/pdf/???). 
 
