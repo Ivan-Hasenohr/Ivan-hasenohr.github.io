@@ -9,7 +9,7 @@ nav_order: 6
 
 - 14/01/2025 Journée du Groupe de Travail Modélisation, Analyse et Simulation, IHP, Paris
 
-  Avec Camille Pouchol : *Méthodes de séparation pour l’atteignabilité de systèmes de contrôle linéaires sous contraintes*
+  Avec Camille Pouchol : *Méthodes de séparation pour l’atteignabilité de systèmes de contrôle linéaires sous contraintes*.
   
 - 28/10/2024 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, ENS Lyon
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*
@@ -43,7 +43,7 @@ nav_order: 6
 - 21/04/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 
   *Correspondance between air and water leaks for DELABIE*
-  [rapport](https://ivan-hasenohr.github.io/assets/pdf/???)
+  [rapport](https://ivan-hasenohr.github.io/assets/pdf/???).
 
 - 18/11/2022 Séminaire des Doctorants, MAP5
 
