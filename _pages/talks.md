@@ -13,40 +13,40 @@ nav_order: 6
   
 - 28/10/2024 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, ENS Lyon
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA.pdf). 
 
 - 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf). 
 
 - 17/05/2024 Séminaire des Doctorants, MAP5
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/240517_GTE). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/240517_GTE.pdf). 
 
 - 17/11/2023 Groupe de Travail Modélisation, Analyse et Simulation, MAP5
 
   *Computer-assisted methods for rigorous description of reachable sets in constrained linear control problems*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/231117_GTMAS). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/231117_GTMAS.pdf). 
 
 - 25/09/2023 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, Centrale-Supélec, Gif-Sur-Yvette
   
   *Rigorous approximations of reachable sets*
-  [poster](https://ivan-hasenohr.github.io/assets/pdf/230925_CJC_MA_poster). 
+  [poster](https://ivan-hasenohr.github.io/assets/pdf/230925_CJC_MA_poster.pdf). 
 
 - 19/06/2023 ANR TRECOS, Rennes
 
   *Méthodes assistées par ordinateur pour la description rigoureuse d’ensembles atteignables de problèmes linéaires contraints*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/230619_TRECOS). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/230619_TRECOS.pdf). 
 
 - 21/04/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 
   Avec Nicolas BEUVIN, Chabane MEZIANE et Etienne PEILLON*Correspondance between air and water leaks for DELABIE*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/230421_DELABIE_slides),
-  [rapport](https://ivan-hasenohr.github.io/assets/pdf/230608_DELABIE_rapport).
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/230421_DELABIE_slides.pdf),
+  [rapport](https://ivan-hasenohr.github.io/assets/pdf/230608_DELABIE_rapport.pdf).
 
 - 18/11/2022 Séminaire des Doctorants, MAP5
 
   *Convex analysis methods for finite-dimensional controllability under constraints*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/221118_GTE). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/221118_GTE.pdf). 
