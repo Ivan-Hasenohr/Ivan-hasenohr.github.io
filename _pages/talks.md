@@ -38,15 +38,15 @@ nav_order: 6
 - 19/06/2023 ANR TRECOS, Rennes
 
   *Méthodes assistées par ordinateur pour la description rigoureuse d’ensembles atteignables de problèmes linéaires contraints*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/230619_TRECOS). 
 
 - 21/04/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 
   Avec Nicolas BEUVIN, Chabane MEZIANE et Etienne PEILLON*Correspondance between air and water leaks for DELABIE*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???),
-  [rapport](https://ivan-hasenohr.github.io/assets/pdf/???).
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/230421_DELABIE_slides),
+  [rapport](https://ivan-hasenohr.github.io/assets/pdf/230608_DELABIE_rapport).
 
 - 18/11/2022 Séminaire des Doctorants, MAP5
 
   *Convex analysis methods for finite-dimensional controllability under constraints*
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/221118_GTE). 
