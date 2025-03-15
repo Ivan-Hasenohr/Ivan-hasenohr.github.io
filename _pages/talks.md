@@ -47,3 +47,4 @@ nav_order: 6
 - 18/11/2022 Séminaire des Doctorants, MAP5
 
   *Convex analysis methods for finite-dimensional controllability under constraints*
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/???). 
