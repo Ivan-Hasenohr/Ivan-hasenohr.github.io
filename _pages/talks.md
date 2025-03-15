@@ -9,7 +9,7 @@ nav_order: 6
 
 - 14/01/2025 Journée du Groupe de Travail Modélisation, Analyse et Simulation, IHP, Paris
 
-  Avec Camille Pouchol : *Méthodes de séparation pour l’atteignabilité de systèmes de contrôle linéaires sous contraintes*.
+  With Camille Pouchol : *Méthodes de séparation pour l’atteignabilité de systèmes de contrôle linéaires sous contraintes*.
   
 - 28/10/2024 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, ENS Lyon
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*
@@ -42,7 +42,7 @@ nav_order: 6
 
 - 21/04/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 
-  Avec Nicolas BEUVIN, Chabane MEZIANE et Etienne PEILLON*Correspondance between air and water leaks for DELABIE*
+  With Nicolas BEUVIN, Chabane MEZIANE et Etienne PEILLON : *Correspondance between air and water leaks for DELABIE*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/230421_DELABIE_slides.pdf),
   [rapport](https://ivan-hasenohr.github.io/assets/pdf/230608_DELABIE_rapport.pdf).
 
